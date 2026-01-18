@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Ansowar! <br/><a href="https://github.com/ansowar-adem"></a> <a href="https://www.linkedin.com/in/ansowaradem/">Cybersecurity Student</a> </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📺 My Homelab</h2>
+
+
+
+<h2> 🤳 Certifications:</h2>
+
+
+
+[linkedin]: https://linkedin.com/in/ansowaradem
 
 <!--
-**ansowar-adem/ansowar-adem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
