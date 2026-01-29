@@ -7,11 +7,12 @@
 
 <h2>📺 My Homelab</h2>
 
+<b>Homelab Complete</b>
 
 
 <h2> 🤳 Certifications:</h2>
 
-
+<b> CompTIA A+</b>
 
 [linkedin]: https://linkedin.com/in/ansowaradem
 
